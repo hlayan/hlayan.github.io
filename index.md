@@ -1,10 +1,12 @@
 ### Hi there 👋, I am hlayan
 #### Passionate Kotlin-first Android Developer
 
-Currently, I widely use [Facebook](https://www.facebook.com/HlayanHtetAung) and [LinkedIn](https://www.linkedin.com/in/hlayanhtetaung) as social media 😍, [Telegram](https://t.me/hlayanhtetaung) as messaging 🥰, [GitHub](https://github.com/hlayan) as VCS 🤞.
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HlayanHtetAung)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hlayan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hlayan_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hlayanhtetaung)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hlayan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hlayanhtetaung@gmail.com)
+[![PlayStore Developer Page](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=4979257576048559572)
 
-I am also building my [Google Developer Profile](https://g.dev/hlayan) in which you can find my learning budge.
-
-My apps can be see on [PlayStore Developer Page](https://play.google.com/store/apps/dev?id=4979257576048559572).
-
-💌 hlayanhtetaung@gmail.com is my personal email which I loosely use for business 🙂.
+[Google Developer Profile](https://g.dev/hlayan)
